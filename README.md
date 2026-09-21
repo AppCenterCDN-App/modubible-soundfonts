@@ -10,9 +10,9 @@ structure with Ogg Vorbis–compressed samples), readable by FluidSynth, TinySou
 
 | 파일 | 원본 | 라이선스 | 크기 |
 |---|---|---|---|
-| `piano-upright-kw.sf3` | [Upright Piano KW](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (FreePats, 2022-02-21) | CC0 1.0 | 5MB |
-| `piano-ydp-grand.sf3` | [YDP Grand Piano](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (FreePats, 2016-08-04) | CC BY 3.0 | 아래 참고 |
-| `piano-salamander.sf3` | [Salamander Grand Piano V3](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (Alexander Holm / FreePats, 2020-06-02) | CC BY 3.0 | 아래 참고 |
+| `piano-upright-kw.sf3` | [Upright Piano KW](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (FreePats, 2022-02-21) | CC0 1.0 | 5.4MB |
+| `piano-ydp-grand.sf3` | [YDP Grand Piano](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (FreePats, 2016-08-04) | CC BY 3.0 | 13.7MB |
+| `piano-salamander.sf3` | [Salamander Grand Piano V3](https://freepats.zenvoid.org/Piano/acoustic-grand-piano.html) (Alexander Holm / FreePats, 2020-06-02) | CC BY 3.0 | 125MB |
 
 원본 제작자와 라이선스 전문은 [`licenses/`](licenses/) 에 그대로 두었습니다. 우리가 한 일은 SF2 → SF3 변환
 (샘플을 Vorbis q6 로 압축)뿐이며, 음·루프·프리셋은 원본 그대로입니다. 변환 도구는 ModuBible 저장소의

@@ -1,0 +1,40 @@
+{
+  "app": "modubible",
+  "bundle": "piano-soundfonts",
+  "revision": 1,
+  "items": [
+    {
+      "id": "piano-upright-kw",
+      "label": "Upright Piano KW",
+      "file": "piano-upright-kw.sf3",
+      "url": "https://github.com/AppCenterCDN-App/modubible-soundfonts/releases/download/v1/piano-upright-kw.sf3",
+      "bytes": 5396082,
+      "sha256": "9a0906ba3d867428f2c73275d009be48a4f23574d8b8679571eea158b61c85ba",
+      "license": "CC0 1.0",
+      "source": "FreePats UprightPianoKW-SF2-20220221",
+      "version": 1
+    },
+    {
+      "id": "piano-ydp-grand",
+      "label": "YDP Grand Piano",
+      "file": "piano-ydp-grand.sf3",
+      "url": "https://github.com/AppCenterCDN-App/modubible-soundfonts/releases/download/v1/piano-ydp-grand.sf3",
+      "bytes": 13664012,
+      "sha256": "6a9212bf155a74d2e7fe8a69b330c3539da4c5583e5c32ebfbc3caa91ec12367",
+      "license": "CC BY 3.0",
+      "source": "FreePats YDP-GrandPiano-SF2-20160804",
+      "version": 1
+    },
+    {
+      "id": "piano-salamander",
+      "label": "Salamander Grand Piano V3",
+      "file": "piano-salamander.sf3",
+      "url": "https://github.com/AppCenterCDN-App/modubible-soundfonts/releases/download/v1/piano-salamander.sf3",
+      "bytes": 124933886,
+      "sha256": "ab1df21435a979c34fd4780803043436b4885c025530b7c4033b2770cc8e4db2",
+      "license": "CC BY 3.0",
+      "source": "FreePats SalamanderGrandPiano-SF2-V3+20200602",
+      "version": 1
+    }
+  ]
+}
